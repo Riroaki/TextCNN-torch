@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__
+.data/
+.idea/
+glove.6B/*.txt
+unused/
+saved_models/*.pt
+vec_cache/*.pt
